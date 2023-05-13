@@ -40,8 +40,3 @@ Once the app is installed and running, users can perform the following actions:
 - Push notifications: Provide push notifications for important events, such as incoming transfers or confirmation of outgoing transactions.
 - Multi-chain support: Extend the app to support multiple Substrate networks and allow users to switch between different chains.
 - Enhanced wallet security: Implement additional security features, such as hardware wallet integration or biometric authentication.
-
-## Dependencies
-- React Native: [Version]
-- PolkadotJS API: [Version]
-- Other dependencies specified in the `package.json` file
